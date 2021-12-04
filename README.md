@@ -83,7 +83,7 @@ sudo python3 sngd.py
 * `This bomber only works in India !!`
 
 ## Licence
-Apache 2.0 © Anubhav Kashyap
+Apache 2.0 © Anonymous_Ekansh
 
 ## Contact Us
 * `If you have any feedback or queries`
